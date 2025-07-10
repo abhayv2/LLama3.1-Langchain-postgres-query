@@ -1,0 +1,5 @@
+# requirements.txt
+langchain-community==0.2.1   # includes the Ollama LLM wrapper and SQL helpers
+langchain-core==0.1.54       # core prompt, runnable, and parser classes
+psycopg2-binary==2.9.9       # PostgreSQL driver
+jupyterlab==4.2.1            # optional notebook environment or use VS code
