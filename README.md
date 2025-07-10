@@ -66,8 +66,8 @@ Run the cells from top to bottom—nothing else to configure.
 
 ![OLLAMA](<images/ollama install.JPG>)
 ![SAMPLE DB](images/DVDrentalDB.JPG)
-![llM ANSWER](images/RESULT.JPG)
-![QUERY](images/VALIDATE_RESULT.JPG)
+![llM ANSWER](<images/LLM RESULT.JPG>)
+![QUERY](images/QUERY.JPG)
 
 
 ## 🔍 How it works (inside the notebook)
