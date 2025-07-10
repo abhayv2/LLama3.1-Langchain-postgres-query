@@ -8,7 +8,7 @@ A **single Jupyter notebook** that lets you:
 2. Ask natural-language questions.  
 3. Watch Llama 3 (running locally via **Ollama**) write SQL, run it on Postgres, and give you a plain-English answer **plus** the query.
 
-No Python package, no extra modules—everything happens inside one notebook.
+No Python package, no extra modules neccessary as everything happens inside one notebook.
 
 ---
 
@@ -83,5 +83,5 @@ Run the cells from top to bottom—nothing else to configure.
 ## 🛠️ Customising
 
 * Swap `OLLAMA_MODEL` for any model you have in Ollama (`llama3.1:70b`, `phi3`, etc.).  
-* Use any Postgres database—schema introspection is automatic.  
+* Use any Postgres database, the schema introspection is automatic.  
 * Edit prompts directly inside the notebook cells to suit your style.
