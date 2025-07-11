@@ -59,13 +59,14 @@ pg_restore -U <pg_user> -d dvdrental data/dvdrental.tar
 ```bash
 jupyter lab notebook/dvd-rental-llama.sql.ipynb
 ```
-Run the cells from top to bottom—nothing else to configure.
+Run the cells from top to bottom.
 
 ---
 ## What you’ll see
 
 ![OLLAMA](<images/ollama install.JPG>)
 ![SAMPLE DB](images/DVDrentalDB.JPG)
+![DESC](images/Focused_schema.JPG)
 ![llM ANSWER](<images/LLM RESULT.JPG>)
 ![QUERY](images/QUERY.JPG)
 
