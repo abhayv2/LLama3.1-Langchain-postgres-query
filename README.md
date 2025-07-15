@@ -20,6 +20,7 @@ A **single Jupyter notebook** that lets you:
 ├─ data/
 │   └─ dvdrental.tar                ← PostgreSQL dump of DVD Rental DB
 ├─ requirements.txt                 ← minimal deps for the notebook
+├─ app.py                           ← optional Streamlit app
 └─ README.md
 ```
 
