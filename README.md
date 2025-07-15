@@ -8,7 +8,6 @@ A **single Jupyter notebook** that lets you:
 2. Ask natural-language questions.  
 3. Watch Llama 3 (running locally via **Ollama**) write SQL, run it on Postgres, and give you a plain-English answer **plus** the query.
 
-No Python package, no extra modules neccessary as everything happens inside one notebook.
 
 ---
 
