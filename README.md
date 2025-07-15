@@ -61,6 +61,28 @@ jupyter lab notebook/dvd-rental-llama.sql.ipynb
 ```
 Run the cells from top to bottom.
 
+### Optional: Run as a Streamlit App
+
+You can use the same logic in a web UI with Streamlit.
+
+1. **Install Streamlit** (if not already):
+    ```bash
+    pip install streamlit
+    ```
+
+2. **Run the app:**
+    ```bash
+    streamlit run app.py
+    ```
+
+3. **Open the browser** at the link shown (usually http://localhost:8501).
+
+The Streamlit app shows the ER diagram and lets you ask questions in a simple web form.
+
+![Streamlit](images/streamlit.JPG)
+
+---
+
 ---
 ## What you’ll see
 
